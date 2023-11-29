@@ -12,5 +12,11 @@ html{
 }
 .games {
    display: flex;
-  
+   justify-content: space-between;
+   flex-wrap: nowrap;
+   align-items: center;
+}
+
+.games div img {
+   width: 300px;
 }
