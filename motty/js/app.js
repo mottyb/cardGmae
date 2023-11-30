@@ -6,7 +6,6 @@ let firstCard;
 let secondCard;
 let matchCardnumber = 0;
 let movescount = 0;
-let stars = [document.querySelectorAll('.fa-star')];
 let ratingvalue = 0;
 let timercount = new Timer();
 
